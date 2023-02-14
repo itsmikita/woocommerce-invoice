@@ -1,0 +1,65 @@
+# Copyright (C) 2023 Mikita Stankiewicz
+# This file is distributed under the same license as the WooCommerce Invoice plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Invoice 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-invoice\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-28T21:05:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: woocommerce-invoice\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Invoice"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/itsmikita"
+msgstr ""
+
+#. Description of the plugin
+msgid "The most basic Payment Gateway for WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mikita Stankiewicz"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:12
+#: includes/class-wc-payment-gateway-invoice.php:41
+msgid "Invoice"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:13
+msgid "Pay by Invoice"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:32
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:34
+msgid "Enable Invoice"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:38
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:40
+msgid "This controls the description the customer sees in checkout."
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:45
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-payment-gateway-invoice.php:84
+msgid "Waiting for the invoice to be paid."
+msgstr ""
